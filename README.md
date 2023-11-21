@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🫀
 
-<!--
-**maysa1500/maysa1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.maysa vidal 🍒
 
-Here are some ideas to get you started:
+.15y
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.estou estudando no alura
+
+.estou me desenvolvendo na linguagem javaScript
+
+
+![](<img 
+src="https://media.tenor.com/u56nhKZD24AAAAAi/catkiss-cat.gif" alt="Catkiss Kiss Sticker - Catkiss Cat Kiss Stickers"/>![image](https://github.com/maysa1500/maysa1500/assets/150843274/fb5e91bb-dcc5-4164-809b-b302e69c8929))
